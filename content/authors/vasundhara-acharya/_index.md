@@ -40,3 +40,5 @@ education:
 superuser: true
 ---
 Vasundhara Acharya is an incoming Ph.D. student at Rensselaer Polytechnic Institute (RPI). Before this, she was serving as an Assistant Professor at the Department of CSE, Manipal Institute of Technology, Manipal, India. Her research interests lie in Artificial Intelligence, Machine Learning, and its application in Clinical Imaging. She aims to design and develop computer-aided diagnosis systems to assist doctors in diagnosing cancer at an early stage.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
